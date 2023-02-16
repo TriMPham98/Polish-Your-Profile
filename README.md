@@ -12,3 +12,5 @@ By following the instructions provided in this repository, users can create READ
 >STEP 2: Pin popular repositories: Pinning repositories to your profile can showcase your best work and make it easy for others to find your most popular projects.
 
 >STEP 3: Create a personalized README.md: Your README.md file is the first thing people will see when they visit your repository. Take the time to create a professional and informative README.md that provides an overview of your project and instructions for usage.
+
+>STEP 4: Follow other users: Following other users can help you discover new projects and collaborate with others who share your interests.

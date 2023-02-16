@@ -7,4 +7,6 @@ The repository also includes examples of good README.md profiles, along with tem
 
 By following the instructions provided in this repository, users can create README.md profiles that are visually appealing, easy to read, and informative, which can help attract more collaborators and contributors to their projects.
 
->STEP 1: Create a special profile repository in GitHub
+>STEP 1: Complete your profile: Make sure to add a profile picture, bio, location, and other relevant information to your profile. This will help others get to know you and your interests.
+
+>STEP 2: 

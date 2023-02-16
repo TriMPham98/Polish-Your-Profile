@@ -9,4 +9,4 @@ By following the instructions provided in this repository, users can create READ
 
 >STEP 1: Complete your profile: Make sure to add a profile picture, bio, location, and other relevant information to your profile. This will help others get to know you and your interests.
 
->STEP 2: 
+>STEP 2: Pin popular repositories: Pinning repositories to your profile can showcase your best work and make it easy for others to find your most popular projects.

@@ -1,9 +1,9 @@
 # Polish-Your-Profile
-This repo is designed to help users create professional-looking and informative README.md profiles for their GitHub repositories. 
+This repository is designed to help you create professional-looking and informative README.md profiles for your GitHub repositories. 
 
-The repository provides step-by-step instructions with pictures on how to structure the profile, add relevant information, use different formatting styles, and incorporate images and badges. 
+It provides step-by-step instructions with pictures on how to structure the profile, add relevant information, use different formatting styles, and incorporate images and badges. 
 
-By following the instructions provided in this repository, users can create README.md profiles that are visually appealing, easy to read, and informative, which can help attract more collaborators and contributors to their projects.
+By following the instructions provided in this repository, you can create README.md profiles that are visually appealing, easy to read, and informative, which can help attract more collaborators and contributors to your projects.
 
 ## STEP 1: Complete your profile
 

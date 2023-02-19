@@ -11,6 +11,9 @@ STEP 2: Pin popular repositories: Pinning repositories to your profile can showc
 
 STEP 3: Create a personalized README.md: Your README.md file is the first thing people will see when they visit your repository. Take the time to create a professional and informative README.md that provides an overview of your project and instructions for usage.
 
+
+![NewRepo](https://user-images.githubusercontent.com/70353051/219906561-16cd078f-8554-4be1-b7bb-fc0a98069c91.png)
+
 STEP 4: Follow other users: Following other users can help you discover new projects and collaborate with others who share your interests.
 
 STEP 5: Customize your profile with themes and badges: GitHub allows you to customize your profile with different themes and badges. This can help make your profile more visually appealing and highlight your skills and accomplishments.

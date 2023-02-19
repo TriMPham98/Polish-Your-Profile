@@ -15,7 +15,11 @@ By following the instructions provided in this repository, you can create README
 ## STEP 3: Create a personalized README.md
 #### Your README.md file is the first thing people will see when they visit your repository. Take the time to create a professional and informative README.md that provides an overview of your project and instructions for usage.
 
+>Create a new repository.
 ![NewRepo](https://user-images.githubusercontent.com/70353051/219906561-16cd078f-8554-4be1-b7bb-fc0a98069c91.png)
+
+>Name your profile repository after your GitHub username. Toggle the ***Public*** option and check the ***Add a README file***. Once these options are chosen, click ***Create repository***.
+![specialRepo](https://user-images.githubusercontent.com/70353051/219909383-ccc23645-4028-4a71-8555-ec5d6d6880a5.png)
 
 ## STEP 4: Follow other users
 #### Following other users can help you discover new projects and collaborate with others who share your interests.

@@ -25,7 +25,9 @@ Now that you have a dedicated profile repository, you can now use GitHub's markd
 
 Our next repository generates a README.md file based on your personal interests: [rahuldkjain's README.md Generator](https://github-profile-readme-generator-47w21mt0m-rahuldkjain.vercel.app/)
 
+Once you've inputted your tech stack, generate the .md output and copy the text.
 
+You can now edit your GitHub profile by pasting the previously copied text into your profile repository.
 
 ## STEP 4: Follow other users
 #### Following other users can help you discover new projects and collaborate with others who share your interests.

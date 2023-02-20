@@ -12,6 +12,8 @@ By following the instructions provided in this repository, you can create README
 ## STEP 2: Pin popular repositories
 #### Pinning repositories to your profile can showcase your best work and make it easy for others to find your most popular projects.
 
+#### *You can pin up to six of your best projects to showcase to newcomers to your profile!*
+
 ## STEP 3: Create a personalized README.md
 #### Your README.md file is the first thing people will see when they visit your repository. Take the time to create a professional and informative README.md that provides an overview of your project and instructions for usage.
 

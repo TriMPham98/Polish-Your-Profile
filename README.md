@@ -23,6 +23,8 @@ By following the instructions provided in this repository, you can create README
 
 Now that you have a dedicated profile repository, you can now use GitHub's markdown language (which is a watered-down version of HTML) to customize your profile.
 
+Our next repository generates a README.md file based on your personal interests.
+
 ## STEP 4: Follow other users
 #### Following other users can help you discover new projects and collaborate with others who share your interests.
 

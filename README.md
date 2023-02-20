@@ -35,9 +35,8 @@ You can now edit your GitHub profile by pasting the previously copied text into 
 #### Following other users can help you discover new projects and collaborate with others who share your interests.
 
 ## STEP 5: Customize your profile with themes and badges
-#### GitHub allows you to customize your profile with different themes and badges. This can help make your profile more visually appealing and highlight your skills and accomplishments.
+#### GitHub allows you to customize your profile with different themes and badges. This can help make your profile more visually appealing and highlight your skills and accomplishments. Below is a table of the earnable badges and a short description of how to earn them.
 
-# 📃 Achievement List 📃
 <br>
 
 | Badge | Name | How to get | Needed amount | 

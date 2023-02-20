@@ -21,7 +21,7 @@ By following the instructions provided in this repository, you can create README
 >Name your profile repository after your GitHub username. Toggle the ***Public*** option and check the ***Add a README file***. Once these options are chosen, click ***Create repository***.
 ![specialRepo](https://user-images.githubusercontent.com/70353051/219909383-ccc23645-4028-4a71-8555-ec5d6d6880a5.png)
 
->Now that you have a dedicated profile repository, you can now use GitHub's markdown language (which is a watered-down version of HTML) to customize your profile.
+Now that you have a dedicated profile repository, you can now use GitHub's markdown language (which is a watered-down version of HTML) to customize your profile.
 
 ## STEP 4: Follow other users
 #### Following other users can help you discover new projects and collaborate with others who share your interests.

@@ -9,6 +9,8 @@ By following the instructions provided in this repository, you can create README
 
 #### Make sure to add a profile picture, bio, location, and other relevant information to your profile. This will help others get to know you and your interests.
 
+*Students who are currently enrolled in college/university have free access to GitHub Pro, which includes GitHub Copilot, a badge you can display on your profile, and much more.*
+
 ## STEP 2: Pin popular repositories
 #### Pinning repositories to your profile can showcase your best work and make it easy for others to find your most popular projects.
 

@@ -5,7 +5,7 @@ It provides step-by-step instructions with pictures on how to structure the prof
 
 By following the instructions provided in this repository, you can create README.md profiles that are visually appealing, easy to read, and informative, which can help attract more collaborators and contributors to your projects.
 
-## STEP 1: Complete your profile
+## **STEP 1: Complete your profile**
 
 #### Make sure to add a profile picture, bio, location, and other relevant information to your profile. This will help others get to know you and your interests.
 

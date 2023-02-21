@@ -19,13 +19,13 @@ By following the instructions provided in this repository, you can create README
 ## **STEP 3: Create a Personalized README.md 🖥️**
 #### Your README.md file is the first thing people will see when they visit your repository. Take the time to create a professional and informative README.md that provides an overview of your project and instructions for usage.
 
->Create a new repository.
+>1. Create a new repository.
 ![NewRepo](https://user-images.githubusercontent.com/70353051/219906561-16cd078f-8554-4be1-b7bb-fc0a98069c91.png)
 
->Name your profile repository after your GitHub username. 
+>2. Name your profile repository after your GitHub username. 
 ![specialRepoName](https://user-images.githubusercontent.com/70353051/220287220-943180d1-1a8b-43ed-b50c-b6aae132b438.png)
 
->Toggle the ***Public*** option and check the ***Add a README file***. Once these options are chosen, click ***Create repository***.![choosePublicCreateRepo](https://user-images.githubusercontent.com/70353051/220287547-11ffa747-5149-4ded-b00c-6fa1b09181e0.png)
+>3. gitToggle the ***Public*** option and check the ***Add a README file***. Once these options are chosen, click ***Create repository***.![choosePublicCreateRepo](https://user-images.githubusercontent.com/70353051/220287547-11ffa747-5149-4ded-b00c-6fa1b09181e0.png)
 
 Now that you have a dedicated profile repository, you can now use [GitHub's markdown language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) (which is a simplified version of HTML) to customize your profile.
 

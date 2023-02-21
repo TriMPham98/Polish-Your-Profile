@@ -33,7 +33,7 @@ Once you've inputted your favorite programming languages, social media profiles,
 
 You can now edit your GitHub profile by pasting the previously copied text into your profile repository.
 
-*For more advanced customization, you can drag GIF's that are less than 10 MB's into the GitHub web editor.*
+*For more advanced customization, you can drag GIF's that are less than 10 MB's into the GitHub web editor for a dynamic and eye-catching profile.*
 
 ## **STEP 4: Follow other users**
 #### Following other users can help you discover new projects and collaborate with others who share your interests.

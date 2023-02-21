@@ -5,18 +5,18 @@ It provides step-by-step instructions with pictures on how to structure the prof
 
 By following the instructions provided in this repository, you can create README.md profiles that are visually appealing, easy to read, and informative, which can help attract more collaborators and contributors to your projects.
 
-## **STEP 1: Complete Your Profile**
+## **STEP 1: Complete Your Profile ✅**
 
 #### Make sure to add a profile picture, bio, location, and other relevant information to your profile. This will help others get to know you and your interests.
 
 *Students who are currently enrolled in college/university have free access to GitHub Pro, which includes GitHub Copilot, a badge you can display on your profile, and much more. [This link](https://education.github.com/benefits?type=student) will help you sign up for this program.*
 
-## **STEP 2: Pin Popular Repositories**
+## **STEP 2: Pin Popular Repositories 🌟**
 #### Pinning repositories to your profile showcases your best work and makes it easy for others to find your most popular projects.
 
 #### *You can pin up to 6 of your best projects to showcase to newcomers to your profile!*
 
-## **STEP 3: Create a Personalized README.md**
+## **STEP 3: Create a Personalized README.md 🖥️**
 #### Your README.md file is the first thing people will see when they visit your repository. Take the time to create a professional and informative README.md that provides an overview of your project and instructions for usage.
 
 >Create a new repository.
@@ -37,10 +37,10 @@ You can now edit your GitHub profile by pasting the previously copied text into 
 
 *For more advanced customization, you can drag GIF's that are less than 10 MB's into the GitHub web editor for a dynamic and eye-catching profile.*
 
-## **STEP 4: Follow Other Users**
+## **STEP 4: Follow Other Users 🤝🏼**
 #### Following other users can help you discover new projects and collaborate with others who share your interests.
 
-## **STEP 5: Customize Your Profile with Themes and Badges**
+## **STEP 5: Customize Your Profile with Themes and Badges 🏅**
 #### GitHub allows you to customize your profile with different themes and badges. This can help make your profile more visually appealing and highlight your skills and accomplishments. Below is a table of the earnable badges and a short description of how to earn them.
 
 <br>

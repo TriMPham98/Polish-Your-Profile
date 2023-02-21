@@ -27,7 +27,7 @@ By following the instructions provided in this repository, you can create README
 
 >Toggle the ***Public*** option and check the ***Add a README file***. Once these options are chosen, click ***Create repository***.![choosePublicCreateRepo](https://user-images.githubusercontent.com/70353051/220287547-11ffa747-5149-4ded-b00c-6fa1b09181e0.png)
 
-Now that you have a dedicated profile repository, you can now use GitHub's markdown language (which is a simplified version of HTML) to customize your profile.
+Now that you have a dedicated profile repository, you can now use [GitHub's markdown language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) (which is a simplified version of HTML) to customize your profile.
 
 [This repository](https://github-profile-readme-generator-47w21mt0m-rahuldkjain.vercel.app/) generates a README.md file based on your personal interests.
 
